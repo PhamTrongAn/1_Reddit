@@ -50,6 +50,8 @@ group :development do
   gem 'devise'
   gem 'bootstrap-sass'
   gem 'acts_as_votable'
+  gem 'simple_form'
+  gem 'record_tag_helper'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
